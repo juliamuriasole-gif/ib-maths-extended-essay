@@ -1,5 +1,9 @@
 # Comparing the LCG and Mersenne Twister algorithms in educational simulations
 
+> **Academic integrity notice:** this work was submitted for the IB Diploma Programme (Mathematics Extended Essay) and has been assessed. It is shared as a portfolio piece only. Do not copy or submit any part of it for assessment; doing so is academic misconduct under the IB Academic Integrity Policy.
+>
+> © 2025 Júlia Muria Solé. All rights reserved. See [COPYRIGHT](COPYRIGHT). Not endorsed by the International Baccalaureate Organization.
+
 My IB Diploma Extended Essay in Mathematics (December 2024, 2,687 words, written in Spanish). The full essay is in [extended-essay.pdf](extended-essay.pdf).
 
 **Original title:** Comparativa de los algoritmos LGC y Mersenne Twister aplicados a simulaciones educativas
